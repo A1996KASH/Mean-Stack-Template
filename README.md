@@ -1,5 +1,7 @@
 # LearnMean
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6c435f9ea7874281901746695fe9f2ed)](https://app.codacy.com/manual/a1996kash/Mean-Stack-Template?utm_source=github.com&utm_medium=referral&utm_content=A1996KASH/Mean-Stack-Template&utm_campaign=Badge_Grade_Dashboard)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
